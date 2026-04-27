@@ -1,4 +1,4 @@
-```markdown
+
 # FinSafe Idempotency Gateway
 
 An API middleware service designed to prevent double-charging in payment processing by implementing the "Pay-Once" protocol using an Idempotency Layer.
