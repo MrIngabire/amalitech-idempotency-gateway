@@ -35,7 +35,7 @@ This project requires **Python 3.8+**.
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_REPO_LINK_HERE>
+   git clone https://github.com/MrIngabire/amalitech-idempotency-gateway.git
    cd idempotency-gateway
    ```
 
